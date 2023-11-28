@@ -250,7 +250,7 @@ class CardExamplesApp extends StatelessWidget {
       theme: ThemeData(
           colorSchemeSeed: const Color(0xff6750a4), useMaterial3: true),
       home: Scaffold(
-        appBar: AppBar(title: const Text('Card Examples')),
+        appBar: AppBar(title: const Text('Card Examples git')),
         body: const Column(
           children: <Widget>[
             Spacer(),
